@@ -13,5 +13,5 @@ Conecto engenharia e negócios para entregar soluções digitais de alta escala 
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 [LinkedIn](https://www.linkedin.com/in/siquieroli) | [Email](mailto:siquieroli@gmail.com)
