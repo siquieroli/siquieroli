@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Eduardo
+## 👋 Olá, eu sou o Eduardo
 
 **Especialista em Sistemas** com +20 anos de experiência em tecnologia, produto e transformação digital.  
 Conecto engenharia e negócios para entregar soluções digitais de alta escala centradas no cliente.
 
 ---
 
-## 🚀 Impacto e Resultados
+### 🚀 Impacto e Resultados
 - Liderança de produtos críticos como **Biometria Facial** para +20M de clientes  
 - Atendimento digital com IA: **+90% retenção** e **+80% resolutividade**  
 - Atuação estratégica nas definições regulatórias do **Open Finance (Fase 3)**  
@@ -13,5 +13,5 @@ Conecto engenharia e negócios para entregar soluções digitais de alta escala 
 
 ---
 
-## 🌐 Contato
+### 🌐 Contato
 [LinkedIn](https://www.linkedin.com/in/siquieroli) | [Email](mailto:siquieroli@gmail.com)
